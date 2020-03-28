@@ -18,16 +18,16 @@
 
 require_once dirname(__FILE__) . '/../../../core/php/core.inc.php';
 
-function template_install() {
+function Nut_Free_V2_install() {
     
 }
 
-function template_update() {
+function Nut_Free_V2_update() {
     
 }
 
 
-function template_remove() {
+function Nut_Free_V2_remove() {
     
 }
 
